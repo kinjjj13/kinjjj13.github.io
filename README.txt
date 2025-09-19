@@ -1,31 +1,18 @@
-Stellar by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# 🌟 My Portfolio Website  
 
+Welcome to my personal portfolio!  
+This is where I showcase my journey, skills, projects, and experiences.  
 
-Say hello to Stellar, a slick little one-pager with a super vibrant color palette (which
-I guess you can always tone down if it's a little too vibrant for you), a "sticky" in-page
-nav bar (powered by my Scrollex plugin), a separate generic page template (just in case
-you need one), and an assortment of pre-styled elements.
+## 🚀 What you’ll find here  
+- **Introduction** – A quick glimpse into who I am  
+- **Skills** – My core technical and professional strengths  
+- **Education & Experience** – The roles and classrooms that shaped me  
+- **Projects** – A look at my key work and case studies  
+- **Testimonials** – Words from people I’ve worked with  
+- **Contact** – Let’s connect and collaborate!  
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+## 💡 Purpose  
+This portfolio is a creative extension of my CV, designed to highlight not just what I’ve done, but also how I think, create, and deliver impact.  
 
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+## 🔗 Live Website  
+👉 [Check it out here](https://kinjjj13.github.io/)  
